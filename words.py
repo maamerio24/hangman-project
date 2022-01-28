@@ -1,0 +1,10 @@
+wordlist = ["touch",
+ "kettle",
+ "existence",
+ "lick",
+ "adjustment",
+ "cellar",
+ "rake",
+ "price",
+ "kick",
+ "thinkable"]
